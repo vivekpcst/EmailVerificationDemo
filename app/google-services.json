@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "687545217564",
+    "firebase_url": "https://emailverificationdemo-e49be.firebaseio.com",
+    "project_id": "emailverificationdemo-e49be",
+    "storage_bucket": "emailverificationdemo-e49be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687545217564:android:b769ba2867e20eaa",
+        "android_client_info": {
+          "package_name": "dzo.com.emailverificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687545217564-2h64hhrp6kq4n7omnk51n4022g9iqai1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dzo.com.emailverificationdemo",
+            "certificate_hash": "81c78bf923479323fdffcb78835271b3e3ba6064"
+          }
+        },
+        {
+          "client_id": "687545217564-eeo13qoulichlq1te854lrno1s6v6ps3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw31CILP3S6ws8Lo4YkUU39s6zn5t-AtM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687545217564-eeo13qoulichlq1te854lrno1s6v6ps3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
